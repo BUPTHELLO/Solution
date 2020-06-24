@@ -12,4 +12,8 @@ public class Solution_84 {
         }
         return res;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
